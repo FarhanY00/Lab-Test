@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Question2</string>
+    <string name="tvUsername">Username</string>
+    <string name="tvPassword">Password</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnLogout">Logout</string>
+    <string name="tvLogin">Login Page</string>
+</resources>
