@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Question1</string>
+    <string name="btnWebAddr">Let\'s go</string>
+    <string name="etPhoneNo">phone no</string>
+    <string name="btnPhoneNo">Call here</string>
+    <string name="etWebAddr">Web Address</string>
+</resources>
